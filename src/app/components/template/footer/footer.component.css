@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    justify-content: flex-end;
+    background-color: rgb(122, 55, 199);
+    bottom: 0;
+    height: 5%;
+}
+
+span{
+    text-align:left;
+}
+
+p{
+    color: white;
+}
